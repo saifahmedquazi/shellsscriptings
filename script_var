@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#echo "this is my first program"
+
+#echo "this chane i make tough my consol"
+
+name="saif"
+echo "$name"
+
+echo "${name}quazi"
+
+echo "my full name is "${name}quazi
+
+
+
+
+
